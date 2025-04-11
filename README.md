@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript, Typescript, Angular, React and else
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on some Project
-- 📫 How to reach me Sven.Michels@hotmamil.com
+- 📫 How to reach me Sven.Michels@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Never stop Learing!
 
