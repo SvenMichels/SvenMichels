@@ -9,7 +9,7 @@
 - 🤝 Looking to collaborate with other devs, creatives, and curious minds
 - 📫 Reach me anytime at: Sven.Michels@hotmail.com
 - 😄 Pronouns: He/him (or just "Code Whisperer")
-- ⚡ Fun fact: I once debugged a bug before coffee... never again. Also: **Never stop Learing** – on purpose 😄
+- ⚡ Fun fact: I once debugged a bug before coffee... never again. Also: **Never stop Learning** – on purpose 😄
 
 ---
 
